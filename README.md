@@ -1,7 +1,7 @@
 # GLKTextureLoaderBug
-Texture loader loading a blue scale texture from Photo library image
+Texture loader loading a blue scale texture from Photo library image when viewed in iOS Simulator.
 
-Quick dirty project showing the texture loader loading a bluescale image for some reason. 
+Quick dirty project showing the texture loader loading a bluescale image when in an iOS Simulator for some reason. 
 
 Uses Photo Library framework and GLKit, requires permission to access photos.
 
